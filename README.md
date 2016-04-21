@@ -4,7 +4,7 @@ You have to design and implement a physical shopping store simulation. This is a
 
 Also note that though you obviously can take the easy route and search online for a solution, this assignment is really about displaying your own analytical and technical skills, so the more individuality you show, the better shall be your prospects.
 
-Also please note that it is not how much you cover but how you approach the solution which we are really interested in, hence make sure you commit code regularly as we would be closely monitoring the progress and can call you for an interview much before the stipulated due date if we feel that you are progressing really well.
+Also please note that it is not how much you cover but how you approach the solution which we are really interested in, hence make sure you commit code regularly as we would be closely monitoring the progress on a daily basis.
 
 Use this opportunity to show us what you have got and that you have what it takes to join us as we build a wonderful product together.
 
