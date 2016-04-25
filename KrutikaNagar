@@ -1,3 +1,0 @@
-class Testing{
-system.out.println("tested");
-}
