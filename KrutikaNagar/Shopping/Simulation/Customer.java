@@ -7,14 +7,17 @@ public class Customer {
 	private String typeofshopper;
 	private String Interest;
 	private int timingPreference;
-	public Customer(String name, int age, String typeofshopper, String interest,
-			int timingPreference) {
-		
+	
+	
+	public Customer(String name, int age, String typeofshopper,
+			String interest, int timingPreference) {
+	
 		this.name = name;
 		this.age = age;
 		this.typeofshopper = typeofshopper;
-		this.Interest = interest;
+		Interest = interest;
 		this.timingPreference = timingPreference;
+		
 	}
 	public String getName() {
 		return name;
@@ -28,6 +31,7 @@ public class Customer {
 	public void setAge(int age) {
 		this.age = age;
 	}
+	
 	public String getTypeofshopper() {
 		return typeofshopper;
 	}
@@ -48,11 +52,12 @@ public class Customer {
 	}
 
 	public void display(){
-		System.out.println(getAge());
-		System.out.println(getName());
-		System.out.println(getTimingPreference());
-		System.out.println(getTimingPreference());
-		System.out.println(getInterest());
+		System.out.println("Customer Age is " +getAge());
+		System.out.println("Customer Name is " +getName());
+		System.out.println("Customer Time Preference is " +getTimingPreference());
+		System.out.println("Customer Type of Shopper " +getTypeofshopper());
+		System.out.println("Customer Intersts " +getInterest());
+	
 	}
 
 	}
